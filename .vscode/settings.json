@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "C:\\Users\\dongy\\.virtualenvs\\carryiin-TJ1LuB4T\\Scripts\\python.exe",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "black",
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
